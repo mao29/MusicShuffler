@@ -6,7 +6,7 @@ Utility to shuffle set of music tracks
 dotnet build
 ```
 
-#Run
+# Run
 ```
 dotnet run
 ```
